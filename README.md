@@ -5,7 +5,7 @@ Just Clone and Run.
 
 # The Chat Board is only going to respond to the following.
 
-## What you gonna type. --------------   The response.
+### What you gonna type(left). ---- The response(right).
 ```
     "Hello": "Hi there &#128540",
     "Who are you": "Hello, Alice  here ",
